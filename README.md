@@ -1,5 +1,5 @@
 # Hello-World
-dummy depository
+dummy repository
 
 
 hello 
